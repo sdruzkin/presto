@@ -559,7 +559,7 @@
                                 <argument>-Dmyproperty=myvalue</argument>
                                 <argument>-classpath</argument>
                                 <classpath />
-                                <argument>com.facebook.presto.benchmark.BenchmarkSuite</argument>
+                                <argument>com.facebook.presto.type.BenchmarkNumberConversion</argument>
                             </arguments>
                             <classpathScope>test</classpathScope>
                         </configuration>
